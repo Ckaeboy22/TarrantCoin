@@ -20,7 +20,7 @@ namespace CryptoNote
 {
     namespace parameters
     {
-        const uint64_t DIFFICULTY_TARGET = 15; // seconds
+        const uint64_t DIFFICULTY_TARGET = 20; // seconds
 
         const uint32_t CRYPTONOTE_MAX_BLOCK_NUMBER = 500'000'005;
 
@@ -295,7 +295,7 @@ namespace CryptoNote
         const char MINER_CONFIG_FILE_NAME[] = "miner_conf.json";
     } // namespace parameters
 
-    const char CRYPTONOTE_NAME[] = "TirtleCoin";
+    const char CRYPTONOTE_NAME[] = "TarrantCoin";
 
     const uint8_t TRANSACTION_VERSION_1 = 1;
 
