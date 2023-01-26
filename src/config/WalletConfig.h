@@ -1,4 +1,5 @@
 // Copyright (c) 2018, The TurtleCoin Developers
+// Copyright (c) 2023, The TarrantCoin Developers
 //
 // Please see the included LICENSE file for more information.
 
@@ -23,14 +24,14 @@ namespace WalletConfig
     const std::string addressBookFilename = ".addressBook.json";
 
     /* The name of your deamon */
-    const std::string daemonName = "TirtleCoind";
+    const std::string daemonName = "TarrantCoind";
 
     /* The name to call this wallet */
-    const std::string walletName = "redwallet";
+    const std::string walletName = "muslimguts";
 
     /* The name of service/walletd, the programmatic rpc interface to a
        wallet */
-    const std::string walletdName = "tirtle-service";
+    const std::string walletdName = "tarrant-service";
 
     /* The full name of your crypto */
     const std::string coinName = std::string(CryptoNote::CRYPTONOTE_NAME);
